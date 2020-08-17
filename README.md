@@ -6,5 +6,5 @@
 3. Описание проекта: Валидация полей при помощи паттернов в html (Имя, телефон, e-mail, url-address)
 4. В проекте использовалось: HTML, CSS, Git
 5. Инструкция по запуску: перейти по ссылке
-6. Ссылка на проект: [https://github.com/SDMaks/SDMaks.github.io/tree/gh-pages]
+6. Ссылка на проект: [https://sdmaks.github.io/]
 
